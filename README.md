@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-### Description for Your GitHub Repository:
-
 ---
 
 # Flutter Calculator App  
