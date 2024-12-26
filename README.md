@@ -36,5 +36,13 @@ This app is ideal for anyone who values functionality and aesthetics in a calcul
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot 2024-12-26 205501](https://github.com/user-attachments/assets/f7bc118f-e7f4-4bf7-90e3-d55611b988f0)
-![Screenshot 2024-12-26 205736](https://github.com/user-attachments/assets/11fa4376-337f-4386-aa74-1a739f92e144)
+# Flutter Calculator App
+
+### Screenshots:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f7bc118f-e7f4-4bf7-90e3-d55611b988f0" alt="Screenshot 1" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/11fa4376-337f-4386-aa74-1a739f92e144" alt="Screenshot 2" width="300"/></td>
+  </tr>
+</table>
